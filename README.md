@@ -16,7 +16,7 @@ Rode `make` + `nome do teste`, um executável **so_long** será criado, e é só
 
 **movimento**: Princípios de movimentação de imagem, usando a função `mlx_key_hook`
 
-**path**: Exemplo de como definimos os paths em nossos arquivos
+**path**: Exemplo de como definir (e como não definir) os paths em nossos arquivos
 
 # Corrigindo Seg Faults
 
