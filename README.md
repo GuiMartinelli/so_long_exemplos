@@ -25,7 +25,7 @@ Rode `make` + `nome do teste`, um executável **so_long** será criado, e é só
 -Ponteiros `mlx` ou `win` mal ultilizados:
 	Caso coloque-os no lugar errado em alguma função, isso quebrará seu programa
 	
-	Exemplo : `win = mlx_new_window(WIN, 100, 100, "teste");` //win como argumento, onde deveria ser mlx
+	Exemplo : win = mlx_new_window(WIN, 100, 100, "teste"); //win como argumento, onde deveria ser mlx
 
 -Path errado ao carregar imagens ou o mapa:
 	Se o path estiver errado, seu ponteiro de imagem ou sua matriz de mapa serão NULL, e quebrará seu programa ao tentar coloca-los na janela
